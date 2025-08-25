@@ -1,1 +1,3 @@
-![foto-laura png](https://github.com/user-attachments/assets/22626855-54b0-4c8b-901e-77f050fd404a)
+
+[index.html](https://github.com/user-attachments/files/21960310/index.html)
+[portafolio.html](https://github.com/user-attachments/files/21960311/portafolio.html)
